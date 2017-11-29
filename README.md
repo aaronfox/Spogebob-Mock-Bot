@@ -2,7 +2,8 @@
 Created in an hour-long mini-event during the middle of WKU's Hack The Hill - it won me a great Raspberry Pi 3 Setup with an NES case to boot!
 
 ## To-do:
-- Get Spongebob on a full time server
+- Get Spongebob on a full time server 
+  - Look into https://www.reddit.com/r/botwatch/comments/2261dv/bot_creators_do_any_of_you_host_your_bots_on/
 - Enable users to trigger Spongebob
 - Allow users to tweet Spongebob particular words and concepts to mock
 
